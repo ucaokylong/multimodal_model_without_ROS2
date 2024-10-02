@@ -1,0 +1,4 @@
+/home/longuzi/sam2_model/segment-anything-2/checkpoints/sam2_hiera_tiny.pt
+/home/longuzi/sam2_model/segment-anything-2/checkpoints/sam2_hiera_small.pt
+segment-anything-2/checkpoints/sam2_hiera_large.pt
+/home/longuzi/sam2_model/segment-anything-2/checkpoints/sam2_hiera_base_plus.pt
